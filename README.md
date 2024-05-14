@@ -4,7 +4,7 @@
 - 🌱 I’m currently **diving deep into machine learning algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SowmyaBudarpu](https://github.com/SowmyaBudarpu)
- <img  src="https://user-images.githubusercontent.com/105108549/190127191-945c97b4-f2e8-47fe-b1da-ff678d31c0ed.gif" height="290px" align="right" />
+ <img  src="https://user-images.githubusercontent.com/105108549/190127191-945c97b4-f2e8-47fe-b1da-ff678d31c0ed.gif" height="250px" align="right" />
  
 - 📫 How to reach me **sowmyapython123@gmail.com**
 
