@@ -7,8 +7,7 @@
  
 - 📫 How to reach me **budarpusowmya@gmail.com**
 
-- ⚡ Fun fact                **Data is the new oil? No, data is the new soil." – David McCandles**
-                            Cultivating data to grow insights, one analysis at a time. 🌱
+- ⚡ Fun fact- **Did you know that 90% of the world's data has been generated in the last two years? We're living in the age of data! ;)**
 
 
 <p align="left">
