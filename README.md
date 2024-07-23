@@ -7,8 +7,8 @@
  
 - 📫 How to reach me **budarpusowmya@gmail.com**
 
-- ⚡ Fun fact > **Data is the new oil? No, data is the new soil." – David McCandless
-               Cultivating data to grow insights, one analysis at a time. 🌱**
+- ⚡ Fun fact                **Data is the new oil? No, data is the new soil." – David McCandles**
+                            Cultivating data to grow insights, one analysis at a time. 🌱
 
 
 <p align="left">
